@@ -1,6 +1,6 @@
-# Abuse Content Detection using BERT
+# Abusive Content Detection using BERT
 
-This project aims to detect abuse content in text using the BERT (Bidirectional Encoder Representations from Transformers) model. The model is fine-tuned for a classification task to categorize text into hate speech, offensive language, or neither.
+This project aims to detect abusive content in text using the BERT (Bidirectional Encoder Representations from Transformers) model. The model is fine-tuned for a classification task to categorize text into hate speech, offensive language, or neither.
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ The objective of this project is to leverage the BERT model to identify and cate
 
 ## Dataset
 
-The dataset used for this project is sourced from Kaggle's Hate Speech and Offensive Language Dataset( the csv file). It consists of labeled text data with three classes:
+The dataset used for this project is sourced from Kaggle's Hate Speech and Offensive Language Dataset(the csv file). It consists of labeled text data with three classes:
 - 0: Hate Speech
 - 1: Offensive Language
 - 2: Neither
